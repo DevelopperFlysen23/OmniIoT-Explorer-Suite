@@ -53,7 +53,7 @@
 5.  **Export**: Click **Export to Workspace** to save the processed Timetables for further analysis.
 
 ## 📝 Authors & Credits
-*   **Main Developer**: [Your Name/Handle]
+*   **Main Developer**: [SANI Raouf]
 *   **Inspiration**: Based on the original IoT Data Explorer by MathWorks.
 
 ---
