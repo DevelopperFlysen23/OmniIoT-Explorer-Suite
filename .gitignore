@@ -1,0 +1,24 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+*.slxc
+*.slxp
+*.slxp.autosave
+*.slxc
+*.sltx
+*.p
+*.mltbx
+*.prj
+slprj/
+work/
+log/
+__cache__/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Project specific
+legacy/
+deploymentLog.html
